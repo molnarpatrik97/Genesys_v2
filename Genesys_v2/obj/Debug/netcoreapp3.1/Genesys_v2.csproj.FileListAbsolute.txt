@@ -1,0 +1,13 @@
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\bin\Debug\netcoreapp3.1\Genesys_v2.exe
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\bin\Debug\netcoreapp3.1\Genesys_v2.deps.json
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\bin\Debug\netcoreapp3.1\Genesys_v2.runtimeconfig.json
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\bin\Debug\netcoreapp3.1\Genesys_v2.runtimeconfig.dev.json
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\bin\Debug\netcoreapp3.1\Genesys_v2.dll
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\bin\Debug\netcoreapp3.1\Genesys_v2.pdb
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.AssemblyInfoInputs.cache
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.AssemblyInfo.cs
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.dll
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.pdb
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.genruntimeconfig.cache
+C:\Users\Patrik\source\repos\Genesys_v2\Genesys_v2\obj\Debug\netcoreapp3.1\Genesys_v2.csprojAssemblyReference.cache
