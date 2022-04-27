@@ -47,16 +47,15 @@ namespace Genesys_v2
             string digits = Console.ReadLine();
             for (int i = 0; i < digits.Length; i++)
             {
-                while (int.Parse(digits[i].ToString()) <= 1)
+                while (int.Parse(digits[i].ToString()) <= 1 || digits.Length >= 4)
                 {
                     Console.WriteLine("Enter a number up to 4 digits. You can use the digits between 2 and 9");
                     digits = Console.ReadLine();
-                    while (digits.Length >= 4)
+                    if (digits == "")
                     {
-                        Console.WriteLine("Enter a number up to 4 digits. You can use the digits between 2 and 9");
-                        digits = Console.ReadLine();
+                        break;
                     }
-                }
+                }           
             }
             return digits;
         

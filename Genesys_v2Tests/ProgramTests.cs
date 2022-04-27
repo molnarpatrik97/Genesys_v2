@@ -10,13 +10,19 @@ namespace Genesys_v2.Tests
     public class ProgramTests
     {
         [TestMethod()]
-        public void StringGeneratorTest()
+        public void LetterGeneratorTest()
         {
             var number = "2";
 
-            var expected = new List<string> { "a", "b", "c" };
-            var actualResults = Program.StringGenerator(number);
-            CollectionAssert.AreEqual(expected, actualResults);
+            var expectedResult = new List<string> { "a", "b", "c" };
+            var result = Program.LetterGenerator(number);
+        }
+        [TestMethod()]
+        public void LetterGeneratorTest2()
+        {
+            var number = "24";
+            var expectedResult = new List<string> { "ag", "ah", "ai", "bg", "bh", "bi", "cg", "ch", "ci" };
+            var result = Program.LetterGenerator(number);
         }
     }
 }
